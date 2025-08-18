@@ -1,0 +1,6 @@
+@subiletbackend_HostAddress = http://localhost:5117
+
+GET {{subiletbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
