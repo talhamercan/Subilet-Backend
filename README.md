@@ -69,3 +69,6 @@ dotnet test ./subiletbackend/subiletbackend.Tests/subiletbackend.Tests.csproj
 
 ## İletişim
 - Soru, öneri veya katkı için: [your-email@example.com]
+
+## Proje Sahibi
+- `talhamercan` — GitHub: https://github.com/talhamercan
