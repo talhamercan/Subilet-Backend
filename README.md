@@ -68,7 +68,7 @@ dotnet test ./subiletbackend/subiletbackend.Tests/subiletbackend.Tests.csproj
 - Swagger açıklamalarını ve endpoint örneklerini güncel tutun
 
 ## İletişim
-- Soru, öneri veya katkı için: [your-email@example.com]
+- Soru, öneri veya katkı için: [talhamercan2004@hotmail.com]
 
 ## Proje Sahibi
 - `talhamercan` — GitHub: https://github.com/talhamercan
