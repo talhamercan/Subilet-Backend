@@ -1,11 +1,11 @@
-# Visual Studio cache ve ayar dosyalarý
+# Visual Studio cache ve ayar dosyalarï¿½
 .vs/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Build çýktýlarý
+# Build ï¿½ï¿½ktï¿½larï¿½
 bin/
 obj/
 Debug/
@@ -18,7 +18,7 @@ Release/
 # ASP.NET loglar
 *.log
 
-# Geçici dosyalar
+# Geï¿½ici dosyalar
 *.swp
 *.*~
 *.tmp
@@ -28,14 +28,17 @@ Release/
 *.nupkg
 packages/
 
-# Publish çýktýlarý
+# Publish ï¿½ï¿½ktï¿½larï¿½
 publish/
 app.publish/
 
-# Kullanýcý gizli ayarlarý
+# Kullanï¿½cï¿½ gizli ayarlarï¿½
 appsettings.Development.json
 secrets.json
 
-# OS özel dosyalar
+# OS ï¿½zel dosyalar
 .DS_Store
 Thumbs.db
+
+# Proje log klasorleri
+subiletbackend/subiletbackend/logs/
